@@ -1,5 +1,3 @@
-Dejar claro la manera de instalacion y ejecucion de la aplicacion
-
 Instalacion:
 
 Instalando Node.js de su pagina oficial
@@ -13,7 +11,4 @@ En la terminal ejecutamos el comando ng new ang-P-API
 Entramos a la carpeta cd ang-P-API
 Iniciamos el servidor ng serve -o
 
-Se abrira automaticamente el proyecto en nuestro navegador pero tambien podemos accerder por la direccion http://localhost:4200/ una vez iniciado el servidor
-
-
-Que componentes, librerias, templates, etc., de terceros fueron utilizados.
+Se abrira automaticamente el proyecto en nuestro navegador pero tambien podemos accerder por la direccion http://localhost:4200/ una vez iniciado el servidor.
